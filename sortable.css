@@ -61,7 +61,7 @@
   color: var(--th-color);
   font-weight: normal;
   text-align: left;
-  text-transform: capitalize;
+  text-transform: none;
   vertical-align: baseline;
   white-space: nowrap;
 }
