@@ -68,7 +68,9 @@
 .sortable td {
   color: var(--td-color);
 }
-.sortable td,
+.sortable td {
+  padding: 10px;
+}
 .sortable th {
   padding: 5px;
 }
